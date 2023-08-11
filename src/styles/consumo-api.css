@@ -1,0 +1,64 @@
+* {
+    background-color: #C0C0C0;
+    background-image: url("https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1193&q=80");
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+.navbar{
+    background-color: #C0C0C0;
+    color: #C0C0C0;
+}
+
+.nav-link{
+    color: #E0FFFF;
+}
+
+.nav-link{
+    color: #00FF7F;
+}
+
+.icon-nav{
+    width: 50px;
+    display: block;
+}
+
+.posters {
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 20px;
+}
+
+.poster {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    background-color: #C0C0C0;
+}
+
+.card {
+    display: inline;
+    background: linear-gradient(to right, rgb(142, 114, 106), rgba(255, 122, 89,0));
+    border: 2px solid #00FF7F;
+    width: 300px;
+    height: 365px;
+    text-align: center;
+    margin: 30px;
+    padding-top: 20px;
+    border-radius: 150px 150px 30px 30px;
+}
+
+.card-image {
+    border: 1.5px solid black;
+    border-radius: 120px;
+    height: 250px;
+    width: 250px;
+}
+
+.descript {
+    -webkit-text-stroke: 0.5px black;
+    color: transparent;
+    background: #1E0601;
+    font-size: 20px;
+    color: #E0FFFF;
+    border: 1px solid black;
+}

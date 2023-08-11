@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+.contenedor{
+    background-image: url("https://plus.unsplash.com/premium_photo-1682308249776-9356bf43b705?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1286&q=80");
+    height: 738px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-nav{
+    width: 40px;
+    height: 40px;
+}
+
+.creator-page{
+    margin-top: 10px;
+    list-style: none;
+    font-weight: bold;
+}
+
+.info-pag{
+    margin-top: 160px;
+    text-align: center;
+}
+
+.titulo-pag{
+    background-color: #F8F8FF;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+    width: 500px;
+    height: 45px;
+}
+
+.titulo-pagTwo{
+    background-color: #F8F8FF;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+    width: 800px;
+    height: 45px;
+}
+
+.btn-nav-api{
+    margin-top: 200px;
+    background: black;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: #F8F8FF;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 12px;
+}
+
+.btn-nav-api:hover{
+    background-color: darkcyan;
+}
+
